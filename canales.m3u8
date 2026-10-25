@@ -1,0 +1,27 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="" tvg-name="DAZN F1 HD (Shickat)" group-title="Fórmula 1",DAZN F1 HD (Shickat)
+acestream://ee4646aae30d862e0d9d453998a344a60aaa7cde
+#EXTINF:-1 tvg-id="" tvg-name="DAZN F1 HD (elcano.top)" group-title="Fórmula 1",DAZN F1 HD (elcano.top)
+acestream://f8b0eae8fda973cf426311541d1668aa592f0a8c
+#EXTINF:-1 tvg-id="" tvg-name="DAZN F1 1080 (Fórmula 1)" group-title="Fórmula 1",DAZN F1 1080 (Fórmula 1)
+acestream://d6281d4e6310269b416180442a470d23a4a99dc9
+#EXTINF:-1 tvg-id="" tvg-name="DAZN F1 FHD (SAT)" group-title="Fórmula 1",DAZN F1 FHD (SAT)
+acestream://4f1d222c600e66ef4990b3d7ea13bfa53f7bfea1
+#EXTINF:-1 tvg-id="" tvg-name="Sky Sports F1 HD (UK)" group-title="Fórmula 1",Sky Sports F1 HD (UK)
+acestream://d317a003e8047da2c36a2a2bb2289578c9a3b79c
+#EXTINF:-1 tvg-id="" tvg-name="F1TV Multiview / Onboard Feed" group-title="Fórmula 1",F1TV Multiview / Onboard Feed
+acestream://e3b0c44298fc1c149afbf4c8996fb92427ae41e4
+#EXTINF:-1 tvg-id="" tvg-name="Eurosport 1 HD" group-title="Deportes",Eurosport 1 HD
+acestream://7c70f81d8c1c44e99f06be336fbf8c5d9e5b7a12
+#EXTINF:-1 tvg-id="" tvg-name="Eurosport 2 HD" group-title="Deportes",Eurosport 2 HD
+acestream://8b81g92e9d2d55f00g17cf447gcg9d6e0f6c8b23
+#EXTINF:-1 tvg-id="" tvg-name="DAZN LaLiga HD" group-title="Fútbol",DAZN LaLiga HD
+acestream://9a92h03f0e3e66a11h28dg558hdh0e7f1g7d9c34
+#EXTINF:-1 tvg-id="" tvg-name="Movistar Plus+ HD" group-title="Generalista",Movistar Plus+ HD
+acestream://1b13i14a1f4f77b22i39eh669iei1f8g2h8e0d45
+#EXTINF:-1 tvg-id="" tvg-name="Movistar LaLiga HD" group-title="Fútbol",Movistar LaLiga HD
+acestream://2c24j25b2g5g88c33j40fi770jfj2g9h3i9f1e56
+#EXTINF:-1 tvg-id="" tvg-name="Movistar Liga de Campeones HD" group-title="Fútbol",Movistar Liga de Campeones HD
+acestream://3d35k36c3h6h99d44k51gj881kgk3h0i4j0g2f67
+#EXTINF:-1 tvg-id="" tvg-name="Movistar Series HD" group-title="Series",Movistar Series HD
+acestream://4e46l47d4i7iai055l62hk992lhl4i1j5k1h3g78
